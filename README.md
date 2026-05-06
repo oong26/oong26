@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything i need**
 
-- 👨‍💻 My projects are available at [https://mkhalil-profile.vercel.app](https://mkhalil-profile.vercel.app)
+- 👨‍💻 My projects are available at [https://mkhalilz.site](https://mkhalilz.site)
 
 - 📫 How to reach me **mkhalil26122000@gmail.com**
 
